@@ -24,7 +24,7 @@ namespace ConsoleApp12
             Console.Write("Ork - введите");
             Console.ForegroundColor = ConsoleColor.Magenta;
             Console.Write(" 3");
-            Console.WriteLine();
+            Console.WriteLine(); ;
 
 
             Warlock warlock = new Warlock();
