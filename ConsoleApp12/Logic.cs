@@ -14,7 +14,7 @@ namespace ConsoleApp12
             hpchange = hpmob - attpers;
             Mob mob = new Mob();
             mob.Hp = hpchange;
-            return mob.Hp; ;
+            return mob.Hp; 
         }                
     }
 }
